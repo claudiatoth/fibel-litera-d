@@ -246,7 +246,7 @@ SCREENS[3] = function(){
 /* 4 — CITEȘTE! cuvinte + propoziții */
 SCREENS[4] = function(){
   const READ = [
-    {t:'Dose', a:'d-dose'}, {t:'Dino', a:'d-dino'}, {t:'Dora', a:'d-dora'},
+    {t:'Dose', a:'d-art-dose'}, {t:'Dino', a:'d-dino'}, {t:'Dora', a:'d-dora'},
     {t:'Nina', a:'d-nina'}, {t:'Oma', a:'d-oma'}, {t:'Tom', a:'d-tom'}
   ];
   const SENT = [
